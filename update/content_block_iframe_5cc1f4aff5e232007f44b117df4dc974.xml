@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="content_block_iframe">
+    <content_block_iframe action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category>general</category>
+        <condition/>
+        <conditional>false</conditional>
+        <frame/>
+        <frame_name>gsft_main</frame_name>
+        <height>600</height>
+        <logged_on>false</logged_on>
+        <name>Fleet Management Catalog Iframe</name>
+        <sizing>expand</sizing>
+        <sys_class_name>content_block_iframe</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-11 13:15:47</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>5cc1f4aff5e232007f44b117df4dc974</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Fleet Management Catalog Iframe</sys_name>
+        <sys_package display_value="Fleet Management" source="x_snc_fleet_manage">12817c6ff5e232007f44b117df4dc989</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Fleet Management">12817c6ff5e232007f44b117df4dc989</sys_scope>
+        <sys_update_name>content_block_iframe_5cc1f4aff5e232007f44b117df4dc974</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-11 13:15:47</sys_updated_on>
+        <url>catalog_home.do?sysparm_catalog=9db174aff5e232007f44b117df4dc932&amp;sysparm_cartless=true&amp;sysparm_catalog_view=catalog_fleet_management_catalog</url>
+        <width>400</width>
+    </content_block_iframe>
+</record_update>
